@@ -5,6 +5,8 @@ Il a été effectué dans le cadre du trimestre recherche des Mines de Paris et 
 Ce répertoire contient les différents codes utilisés pour mener à bien ce projet. 
 Les données nécessaires à leur exécution ne sont pas publiques, elles nous ont été transmises par Sébastien Bonnieux (bonnieux@geoazur.unice.fr).
 
-Le fichier info_events.csv contient différentes informations permettant de localiser les séismes connus dans le disque dur.
+Le fichier *info_events.csv* contient différentes informations permettant de localiser les séismes connus dans le disque dur.
+
+Voir *rapport data sophia.pdf* pour comprendre le déroulement du projet.
 
 Pour plus d'informations envoyez un mail à lidia.ejarque_bueno@etu.minesparis.psl.eu ou à enzo.boulin@etu.minesparis.psl.eu.
