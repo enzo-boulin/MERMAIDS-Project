@@ -7,6 +7,6 @@ Les données nécessaires à leur exécution ne sont pas publiques, elles nous o
 
 Le fichier *info_events.csv* contient différentes informations permettant de localiser les séismes connus dans le disque dur.
 
-Voir *rapport.pdf* pour comprendre le déroulement du projet.
+Voir [*rapport.pdf*](https://github.com/enzo-boulin/MERMAIDS-Project/blob/main/rapport.pdf) pour comprendre le déroulement du projet.
 
 Pour plus d'informations envoyez un mail à lidia.ejarque_bueno@etu.minesparis.psl.eu ou à enzo.boulin@etu.minesparis.psl.eu.
