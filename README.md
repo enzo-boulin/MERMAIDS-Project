@@ -1,12 +1,13 @@
 # MERMAIDS-Project
-Ce projet porte sur la mise au point d'algorithmes détectant des séismes sur des séries temporelles issues d'hydrophones sous-marins. 
-Il a été effectué dans le cadre du trimestre recherche des Mines de Paris et encadré par Karin Sigloch (sigloch@geoazur.unice.fr) et Sébastien Bonnieux (bonnieux@geoazur.unice.fr) de l'équipe GéoAzur du campus du CNRS à Sophia-Antipolis. 
 
-Ce répertoire contient les différents codes utilisés pour mener à bien ce projet. 
-Les données nécessaires à leur exécution ne sont pas publiques, elles nous ont été transmises par Sébastien Bonnieux (bonnieux@geoazur.unice.fr).
+This project focuses on the development of algorithms to detect earthquakes within time series data derived from underwater hydrophones.
+It was carried out as part of the research term at Mines de Paris and supervised by Karin Sigloch (sigloch@geoazur.unice.fr) and Sébastien Bonnieux (bonnieux@geoazur.unice.fr) of the GéoAzur team at the CNRS campus in Sophia-Antipolis.
 
-Le fichier *info_events.csv* contient différentes informations permettant de localiser les séismes connus dans le disque dur.
+This repository contains the various codes used to complete this project.
+The data required to run them is not public; it was provided to us by Sébastien Bonnieux (bonnieux@geoazur.unice.fr).
 
-Voir [*rapport.pdf*](https://github.com/enzo-boulin/MERMAIDS-Project/blob/main/rapport.pdf) pour comprendre le déroulement du projet.
+The file *info_events.csv* contains various details allowing for the localization of known earthquakes within the hard drive data.
 
-Pour plus d'informations envoyez un mail à lidia.ejarque_bueno@etu.minesparis.psl.eu ou à enzo.boulin@etu.minesparis.psl.eu.
+See *[rapport.pdf](https://github.com/enzo-boulin/MERMAIDS-Project/blob/main/rapport.pdf)* to understand the project workflow and details.
+
+For more information, please send an email to enzo.boulin@etu.minesparis.psl.eu.
