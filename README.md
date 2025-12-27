@@ -32,4 +32,4 @@ See *[rapport.pdf](https://github.com/enzo-boulin/MERMAIDS-Project/blob/main/rap
 
 ## Contact
 
-For more information, please send an email to lidia.ejarque_bueno@etu.minesparis.psl.eu or to enzo.boulin@etu.minesparis.psl.eu.
+For more information, please send an email to enzo.boulin@etu.minesparis.psl.eu.
